@@ -66,4 +66,3 @@ ml-project-premium-prediction/
 
 ## License
 
-This project is based on the Codebasics ML course project.
